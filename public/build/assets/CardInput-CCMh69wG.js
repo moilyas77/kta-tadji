@@ -1,0 +1,1 @@
+import{o as l,e as t,t as s,f as o,i as n}from"./app-Bmo5HFoe.js";const r={class:"w-full flex flex-col gap-1 rounded-md bg-black/5 p-2 shadow-lg"},c={key:0,class:"ml-1 font-semibold"},m={__name:"CardInput",props:{label:String},setup(e){return(a,d)=>(l(),t("div",r,[e.label?(l(),t("span",c,s(e.label),1)):o("",!0),n(a.$slots,"default")]))}};export{m as _};

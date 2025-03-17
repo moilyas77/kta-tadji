@@ -1,0 +1,1 @@
+import{m as l,h as u,p as m,o as n,e as r,q as p}from"./app-Bmo5HFoe.js";const i={__name:"Input",props:{modelValue:{},modelModifiers:{}},emits:["update:modelValue"],setup(s){const e=l(s,"modelValue");return(t,o)=>u((n(),r("input",p(t.$attrs,{"onUpdate:modelValue":o[0]||(o[0]=a=>e.value=a),class:"input input-sm input-bordered"}),null,16)),[[m,e.value]])}};export{i as _};

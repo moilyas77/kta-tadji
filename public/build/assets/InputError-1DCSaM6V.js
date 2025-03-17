@@ -1,0 +1,1 @@
+import{h as t,s,o as r,e as a,t as o}from"./app-Bmo5HFoe.js";const i={__name:"InputError",props:{message:{type:String}},setup(e){return(c,m)=>t((r(),a("p",{class:"mt-2 text-sm text-error"},o(e.message),513)),[[s,e.message]])}};export{i as _};
